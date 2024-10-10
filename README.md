@@ -13,12 +13,12 @@ Este proyecto es una aplicación web básica para gestionar tareas, desarrollado
 
 ### 1. Clonar el repositorio
 
-git clone https://github.com/usuario/mi_proyecto_php.git
+git clone https://github.com/andres2402/technical_test_task_manager
 
 ### 2. Configurar la base de datos
 
 Crea una base de datos en MySQL llamada task_management.
-Importa el archivo SQL compartido en el zip.
+Importa el archivo SQL suministrado.
 
 ### 3. Configurar la conexión a la base de datos
 
